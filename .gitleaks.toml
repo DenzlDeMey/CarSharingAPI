@@ -1,6 +1,4 @@
-﻿[extent]
+[extend]
 useDefault = true
-
 [allowlist]
-description = "Seed-hashes van demo-gebruikers in EF-migraties"
-paths = ['''CarSharingAPI/Migrations/.''']
+paths = ['''CarSharingAPI/Migrations/.*''']
